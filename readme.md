@@ -1,4 +1,7 @@
  
+# PWRxPSYCHO <img src="https://komarev.com/ghpvc/?username=pwrxpsycho&style=flat-square&color=blue" alt=""/>
+
+
 ### 🔥 My Stats
 ---
 
