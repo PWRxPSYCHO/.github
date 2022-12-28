@@ -2,6 +2,8 @@
 # PWRxPSYCHO <img src="https://komarev.com/ghpvc/?username=pwrxpsycho&style=flat-square&color=blue" alt=""/>
 
 
+<p align="left"> <a href="https://github.com/scripttactics" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/90285633?s=200&v=4" alt="Script Tactics" width="80" height="80"/> </a> <a href="https://github.com/meshtastic" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/61627050?s=200&v=4" alt="Meshtastic" width="80" height="80"/> </a></p>
+
 ### 🔥 My Stats
 ---
 
